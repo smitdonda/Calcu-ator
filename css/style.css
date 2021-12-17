@@ -1,0 +1,16 @@
+h3 {
+  text-align: center;
+}
+table {
+  background-color: #dadada;
+  width: 20%;
+  height: 400px;
+  margin: auto;
+}
+button {
+  background-color: #dadada;
+  border: transparent;
+}
+.button1 {
+  color: red;
+}
